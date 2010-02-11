@@ -151,3 +151,5 @@ test
 vendor
   External libraries that the application depends on. Also includes the plugins subdirectory.
   This directory is in the load path.
+
+Say I modify this file.... then what?
